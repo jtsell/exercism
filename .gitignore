@@ -1,0 +1,6 @@
+# Ignore dotfiles... present company excluded.
+.*
+!/.gitignore
+
+__pycache__
+exercises.txt
